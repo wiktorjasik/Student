@@ -1,0 +1,5 @@
+﻿  List.cpp
+d:\projekty\visual\student\student\list.cpp(137): warning C4018: '<': signed/unsigned mismatch
+d:\projekty\visual\student\student\list.cpp(169): warning C4018: '<': signed/unsigned mismatch
+d:\projekty\visual\student\student\list.cpp(243): warning C4018: '<': signed/unsigned mismatch
+  Student.vcxproj -> D:\Projekty\Visual\Student\Debug\Student.exe
